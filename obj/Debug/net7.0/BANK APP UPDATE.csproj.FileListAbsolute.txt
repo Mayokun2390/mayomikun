@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\bin\Debug\net7.0\BANK APP UPDATE.exe
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\bin\Debug\net7.0\BANK APP UPDATE.deps.json
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\bin\Debug\net7.0\BANK APP UPDATE.runtimeconfig.json
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\bin\Debug\net7.0\BANK APP UPDATE.dll
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\bin\Debug\net7.0\BANK APP UPDATE.pdb
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\BANK APP UPDATE.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\BANK APP UPDATE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\BANK APP UPDATE.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\BANK APP UPDATE.AssemblyInfo.cs
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\BANK APP UPDATE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\BANK APP UPDATE.dll
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\refint\BANK APP UPDATE.dll
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\BANK APP UPDATE.pdb
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\BANK APP UPDATE.genruntimeconfig.cache
+C:\Users\User\Desktop\Desktop\BANK APP UPDATE\obj\Debug\net7.0\ref\BANK APP UPDATE.dll
